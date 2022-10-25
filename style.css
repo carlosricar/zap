@@ -1,0 +1,70 @@
+.topo{
+    color:white;
+    font-size: 18px !important;
+    font-weight: 600;
+    background-color: rgb(227, 5, 5);
+}
+.btn{
+    font-weight: 600;
+    border-radius: 20px;
+    color:white;
+    background-color: rgb(227, 5, 5);
+}
+.titulo{
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 30px;
+    color: rgb(4, 170, 4);
+    font-weight: 400;
+}
+.titulo-2{
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 30px;
+    color: chocolate;
+    font-weight: 400;
+}
+.texto-simples{
+    font-weight: 100;
+}
+.texto-simples-2{
+    font-weight: 300;
+}
+.texto-simples-3{
+    font-size: 12px;
+}
+.fundo-verde{
+    background-image: linear-gradient(to bottom,rgb(1, 84, 1), rgb(0, 60, 0));
+}
+.texto-branco{
+    color:white !important;
+}
+.negativo{
+    margin-top:-40px;
+}
+.negativo-frente{
+    z-index: 9999;
+    position: relative;
+    margin-top:-40px;
+}
+.texto-cinza{
+    color:grey;
+}
+.texto-grande{
+    color:rgb(59, 59, 59);
+    font-size: 30px;
+    font-weight: 800;
+}
+.valor{
+    color:chocolate;
+    font-size: 60px;
+    font-weight: 800;
+}
+.card-desconto{
+    border-radius: 10px;
+   
+    background-color: rgb(249, 249, 249);
+    border: 2px solid black;
+    border-bottom: none;
+}
+.rodape{
+    background-color:rgb(27, 27, 27);
+}
